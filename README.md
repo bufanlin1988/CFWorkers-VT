@@ -3,7 +3,8 @@
 在线 CloudFlare优质IP
 https://stock.hostmonit.com/CloudFlareYes
 查找到的优选IP，放入到v2rayN节点的地址里面保存
-![image](https://github.com/bufanlin1988/CFWorkers-VT/assets/160445517/3446a8a6-83d4-4c9d-9a01-f12419c557aa)
+![image](https://github.com/bufanlin1988/CFWorkers-VT/assets/160445517/d8806103-6602-4898-9657-2ae2397bce37)
+
 
 ##如何使用
 - 请下载适合版本 v2rayN-With-Core.zip from [releases](https://github.com/2dust/v2rayN/releases)
