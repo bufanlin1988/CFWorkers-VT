@@ -1,7 +1,5 @@
 当前端口不使用域名方式，无tls，需要先开全局,订阅获取节点.
 
-注：Trojan模式下 手机无法连接使用需要域名开启tls.
-
 在线 CloudFlare优质IP
 
 https://stock.hostmonit.com/CloudFlareYes
